@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546135326507",
+    "project_id": "unidad3-flutter",
+    "storage_bucket": "unidad3-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546135326507:android:cfd9695bd1f33a8b418f6e",
+        "android_client_info": {
+          "package_name": "com.example.encuesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546135326507-8f40ugt4t7eqtv058nsl11ncdavu7ev1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFloo9GYN3Kt46fm_V_gZRPyrDR4MbZ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546135326507-8f40ugt4t7eqtv058nsl11ncdavu7ev1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
